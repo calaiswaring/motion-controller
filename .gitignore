@@ -1,0 +1,11 @@
+build/
+*.uf2
+*.elf
+*.bin
+*.dis
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+*.csv
